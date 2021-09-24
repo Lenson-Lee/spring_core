@@ -36,7 +36,7 @@ public class Member {
         dependencies(의존파일) 이 적혀있다. : 라이브러리 의존성 관리(코드 지우면 스프링 지워진다..)
         여기에 롬복 넣으면 알아서 관리해준다.
 
-        maven repository에서 롬복 검색하고, 사용자가 가장 많은 파일 선택하면 파일에 따른 링크 나옴. 우리는 gradle(short)사용
+        maven repository 에서 롬복 검색하고, 사용자가 가장 많은 파일 선택하면 파일에 따른 링크 나옴. 우리는 gradle(short)사용
         복사해서 build.gradle 파일에 넣으면 된다. 우측상단에 코끼리 새로고침 눌러서 다운로드 시작.
         설치 완료되면 우측 상단에 gradle 창에서 dependencies - compileClasspath 에 롬복 깔림
         shift + shift 에서 플러그인 - 마켓 플레이스 들어가서 롬복 또 설치 해야한다.

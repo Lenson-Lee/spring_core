@@ -1,6 +1,7 @@
 
 # 스프링 코어 학습
 - [스프링프로젝트 생성 사이트](https://start.spring.io)
+- [라이브러리 다운로드 사이트](https://mvnrepository.com/)
 - [속에 있는 글을 클릭 시 소괄호 링크로 이동](https://start.spring.io)
 ##lombok 설정
 1. build.gradle -> dependencies에 추가
@@ -14,7 +15,3 @@
 
 ```
 2. 인텔리제이 shift 두 번 눌러서 검색창에 플러그인 검색 후 lombok 플러그인 설치
-
-# 스프링 코어 학습
-- [스프링프로젝트 생성 사이트]
-- 
