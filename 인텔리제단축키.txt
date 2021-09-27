@@ -1,0 +1,2 @@
+ctr shift E 최근파일
+커서에 ctr shift T => ctrl 클릭
