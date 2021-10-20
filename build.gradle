@@ -24,6 +24,9 @@ dependencies {
 	// https://mvnrepository.com/artifact/org.projectlombok/lombok
 	compileOnly 'org.projectlombok:lombok:1.18.12'
 	annotationProcessor 'org.projectlombok:lombok:1.18.12'
+
+
+	compileOnly 'javax.servlet.jsp:jsp-api:2.1'
 }
 
 test {
